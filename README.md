@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Mark.
+- 👀 I’m interested in Python programming.
+- 🌱 I’m currently learning Deep Learing.
